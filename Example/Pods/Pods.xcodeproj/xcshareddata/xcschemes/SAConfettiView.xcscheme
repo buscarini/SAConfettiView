@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <Scheme
-   LastUpgradeVersion = "0800"
+   LastUpgradeVersion = "0700"
    version = "1.3">
    <BuildAction
       parallelizeBuildables = "YES"
@@ -14,7 +14,7 @@
             buildForAnalyzing = "YES">
             <BuildableReference
                BuildableIdentifier = "primary"
-               BlueprintIdentifier = "23180EC6CB91F238CFFA594233E25B76"
+               BlueprintIdentifier = "9DF06D62D66F5D39F67D9090CD3C9494"
                BuildableName = "SAConfettiView.framework"
                BlueprintName = "SAConfettiView"
                ReferencedContainer = "container:Pods.xcodeproj">
@@ -45,7 +45,7 @@
       <MacroExpansion>
          <BuildableReference
             BuildableIdentifier = "primary"
-            BlueprintIdentifier = "23180EC6CB91F238CFFA594233E25B76"
+            BlueprintIdentifier = "9DF06D62D66F5D39F67D9090CD3C9494"
             BuildableName = "SAConfettiView.framework"
             BlueprintName = "SAConfettiView"
             ReferencedContainer = "container:Pods.xcodeproj">
